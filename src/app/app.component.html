@@ -1,0 +1,11 @@
+<ng-container *ngIf="authStore.user() as user; else login">
+  <div class="container">
+    <h1>Welcome, {{ user.username }}</h1>
+    <button class="btn btn-danger" (click)="logout()">Logout</button>
+    <app-record-list></app-record-list>
+  </div>
+</ng-container>
+
+<ng-template #login>
+  <app-login></app-login>
+</ng-template>

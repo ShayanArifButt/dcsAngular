@@ -1,0 +1,198 @@
+[
+    {
+        "chargingSessionId": "1",
+        "vehicleId": "veh1",
+        "startTime": "2024-01-01T08:00:00Z",
+        "endTime": "2024-01-01T10:00:00Z",
+        "totalCost": 10.5
+    },
+    {
+        "chargingSessionId": "2",
+        "vehicleId": "veh2",
+        "startTime": "2024-01-02T09:00:00Z",
+        "endTime": "2024-01-02T11:00:00Z",
+        "totalCost": 20.0
+    },
+    {
+        "chargingSessionId": "3",
+        "vehicleId": "veh3",
+        "startTime": "2024-01-03T07:00:00Z",
+        "endTime": "2024-01-03T09:00:00Z",
+        "totalCost": 15.0
+    },
+    {
+        "chargingSessionId": "4",
+        "vehicleId": "veh4",
+        "startTime": "2024-01-04T10:00:00Z",
+        "endTime": "2024-01-04T12:00:00Z",
+        "totalCost": 12.0
+    },
+    {
+        "chargingSessionId": "5",
+        "vehicleId": "veh5",
+        "startTime": "2024-01-05T11:00:00Z",
+        "endTime": "2024-01-05T13:00:00Z",
+        "totalCost": 18.5
+    },
+    {
+        "chargingSessionId": "6",
+        "vehicleId": "veh6",
+        "startTime": "2024-01-06T06:00:00Z",
+        "endTime": "2024-01-06T08:00:00Z",
+        "totalCost": 9.0
+    },
+    {
+        "chargingSessionId": "7",
+        "vehicleId": "veh7",
+        "startTime": "2024-01-07T05:00:00Z",
+        "endTime": "2024-01-07T07:00:00Z",
+        "totalCost": 17.0
+    },
+    {
+        "chargingSessionId": "8",
+        "vehicleId": "veh8",
+        "startTime": "2024-01-08T08:30:00Z",
+        "endTime": "2024-01-08T10:30:00Z",
+        "totalCost": 21.0
+    },
+    {
+        "chargingSessionId": "9",
+        "vehicleId": "veh9",
+        "startTime": "2024-01-09T07:30:00Z",
+        "endTime": "2024-01-09T09:30:00Z",
+        "totalCost": 19.5
+    },
+    {
+        "chargingSessionId": "10",
+        "vehicleId": "veh10",
+        "startTime": "2024-01-10T08:15:00Z",
+        "endTime": "2024-01-10T10:15:00Z",
+        "totalCost": 14.0
+    },
+    {
+        "chargingSessionId": "11",
+        "vehicleId": "veh11",
+        "startTime": "2024-01-11T06:30:00Z",
+        "endTime": "2024-01-11T08:30:00Z",
+        "totalCost": 22.0
+    },
+    {
+        "chargingSessionId": "12",
+        "vehicleId": "veh12",
+        "startTime": "2024-01-12T09:15:00Z",
+        "endTime": "2024-01-12T11:15:00Z",
+        "totalCost": 16.0
+    },
+    {
+        "chargingSessionId": "13",
+        "vehicleId": "veh13",
+        "startTime": "2024-01-13T07:45:00Z",
+        "endTime": "2024-01-13T09:45:00Z",
+        "totalCost": 11.5
+    },
+    {
+        "chargingSessionId": "14",
+        "vehicleId": "veh14",
+        "startTime": "2024-01-14T10:45:00Z",
+        "endTime": "2024-01-14T12:45:00Z",
+        "totalCost": 20.5
+    },
+    {
+        "chargingSessionId": "15",
+        "vehicleId": "veh15",
+        "startTime": "2024-01-15T08:45:00Z",
+        "endTime": "2024-01-15T10:45:00Z",
+        "totalCost": 13.0
+    },
+    {
+        "chargingSessionId": "16",
+        "vehicleId": "veh16",
+        "startTime": "2024-01-16T09:00:00Z",
+        "endTime": "2024-01-16T11:00:00Z",
+        "totalCost": 15.0
+    },
+    {
+        "chargingSessionId": "17",
+        "vehicleId": "veh17",
+        "startTime": "2024-01-17T10:00:00Z",
+        "endTime": "2024-01-17T12:00:00Z",
+        "totalCost": 23.0
+    },
+    {
+        "chargingSessionId": "18",
+        "vehicleId": "veh18",
+        "startTime": "2024-01-18T11:00:00Z",
+        "endTime": "2024-01-18T13:00:00Z",
+        "totalCost": 19.0
+    },
+    {
+        "chargingSessionId": "19",
+        "vehicleId": "veh19",
+        "startTime": "2024-01-19T08:00:00Z",
+        "endTime": "2024-01-19T10:00:00Z",
+        "totalCost": 14.0
+    },
+    {
+        "chargingSessionId": "20",
+        "vehicleId": "veh20",
+        "startTime": "2024-01-20T07:00:00Z",
+        "endTime": "2024-01-20T09:00:00Z",
+        "totalCost": 21.0
+    },
+    {
+        "chargingSessionId": "21",
+        "vehicleId": "veh21",
+        "startTime": "2024-01-21T08:15:00Z",
+        "endTime": "2024-01-21T10:15:00Z",
+        "totalCost": 18.0
+    },
+    {
+        "chargingSessionId": "22",
+        "vehicleId": "veh22",
+        "startTime": "2024-01-22T09:30:00Z",
+        "endTime": "2024-01-22T11:30:00Z",
+        "totalCost": 20.0
+    },
+    {
+        "chargingSessionId": "23",
+        "vehicleId": "veh23",
+        "startTime": "2024-01-23T06:45:00Z",
+        "endTime": "2024-01-23T08:45:00Z",
+        "totalCost": 12.5
+    },
+    {
+        "chargingSessionId": "24",
+        "vehicleId": "veh24",
+        "startTime": "2024-01-24T07:15:00Z",
+        "endTime": "2024-01-24T09:15:00Z",
+        "totalCost": 16.5
+    },
+    {
+        "chargingSessionId": "25",
+        "vehicleId": "veh25",
+        "startTime": "2024-01-25T08:00:00Z",
+        "endTime": "2024-01-25T10:00:00Z",
+        "totalCost": 15.5
+    },
+    {
+        "chargingSessionId": "26",
+        "vehicleId": "veh26",
+        "startTime": "2024-01-26T09:00:00Z",
+        "endTime": "2024-01-26T11:00:00Z",
+        "totalCost": 22.5
+    },
+    {
+        "chargingSessionId": "27",
+        "vehicleId": "veh27",
+        "startTime": "2024-01-27T08:30:00Z",
+        "endTime": "2024-01-27T10:30:00Z",
+        "totalCost": 14.5
+    },
+    {
+        "chargingSessionId": "28",
+        "vehicleId": "veh28",
+        "startTime": "2024-01-28T10:30:00Z",
+        "endTime": "2024-01-28T12:30:00Z",
+        "totalCost": 18.5
+    }
+]

@@ -1,0 +1,24 @@
+<div class="record-list-container">
+    <input type="text" class="form-control mb-3" placeholder="Filter by ID" [(ngModel)]="filterId"
+        (ngModelChange)="filterRecords()" />
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th (click)="sort('startTime')">ChargingSessionId</th>
+                <th (click)="sort('startTime')">Start Time</th>
+                <th (click)="sort('endTime')">End Time</th>
+                <th (click)="sort('totalCost')">Total Cost</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let record of paginatedRecords">
+                <td>{{ record.chargingSessionId }}</td>
+                <td>{{ record.startTime | date }}</td>
+                <td>{{ record.endTime | date }}</td>
+                <td>{{ record.totalCost }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <ngb-pagination [collectionSize]="totalRecords" [(page)]="currentPage" [pageSize]="pageSize"
+        (pageChange)="loadPage($event)"></ngb-pagination>
+</div>
